@@ -1,0 +1,12 @@
+.text-center{
+    font-size: 60px;
+    padding-top: 3rem;
+}
+.py-3{
+    text-align: center;
+    color: rgb(3, 184, 184);
+}
+
+.navbar-collapse{
+    scroll-padding-left: 30rem
+}
