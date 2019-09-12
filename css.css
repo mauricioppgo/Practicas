@@ -10,3 +10,8 @@
 .navbar-collapse{
     scroll-padding-left: 30rem
 }
+
+.card{
+    padding: 20px;
+    width: 40px
+}
